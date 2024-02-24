@@ -2,7 +2,7 @@
 
 #### Fullstack Developer.....Mostly Backend😜
 
-I'm Damian Thomas Ugbah. Am a full stack software developer. I use and learn languages and frameworks like Java, Python, JavaScript, Spring boot, and Django. You can checkout my portfolio at damithomas.github.io.........
+I'm Damian Thomas Ugbah. Am a full stack software developer. I use and learn languages and frameworks like Java, Python, JavaScript, Spring boot, and Django. You can checkout my portfolio at https://damithomas.github.io ........
 
 Skills: JAVA  / PYTHON / JAVASCRIPT / SPRING BOOT / DJANGO / HTML / CSS
 
