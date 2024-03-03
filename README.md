@@ -6,7 +6,7 @@ I'm Damian Thomas Ugbah. Am a full stack software developer. I use and learn lan
 
 Skills: JAVA  / PYTHON / JAVASCRIPT / SPRING BOOT / DJANGO / HTML / CSS
 
-- 🔭 I’m currently working on wisspar.onrender.com 
+- 🔭 I’m currently working on https://wisspar.onrender.com 
 - 🌱 I’m currently learning python and django 
 - 👯 I’m looking to collaborate on your big project idea..lets build this thing already 
 - 🤔 I’m looking for help with improving as a developer always 
